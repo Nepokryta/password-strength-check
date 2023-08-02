@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/password-strength-check/static/css/main.4577fdef.css",
+    "main.css": "/password-strength-check/static/css/main.c3f8017a.css",
     "main.js": "/password-strength-check/static/js/main.ce4b12b5.js",
     "index.html": "/password-strength-check/index.html",
-    "main.4577fdef.css.map": "/password-strength-check/static/css/main.4577fdef.css.map",
+    "main.c3f8017a.css.map": "/password-strength-check/static/css/main.c3f8017a.css.map",
     "main.ce4b12b5.js.map": "/password-strength-check/static/js/main.ce4b12b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.4577fdef.css",
+    "static/css/main.c3f8017a.css",
     "static/js/main.ce4b12b5.js"
   ]
 }
